@@ -1,0 +1,44 @@
+body{
+    color: #460606;
+    background-image: url(alap.jpg);
+    width: 56%;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom-color: #0e005cdc;
+    border-bottom-width: 10px;
+    border-bottom-style: double;
+    border-top-color: #0e005cdc;
+    border-top-width: 10px;
+    border-top-style: double;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+#szines{
+    color: #5c0180fb
+}
+h1{
+    text-align: center;
+}
+ul li{
+    list-style-type: none;
+}
+
+ul li:first-child{
+    padding-top: 10px;
+}
+ul li:last-child{
+    padding-bottom: 10px;
+}
+h2{
+    text-align: center;
+}
+#kep{
+    width: 150px;
+    float: right;
+}
+#kep1{
+    width: 150px;
+    float: right;
+    height: 103px;
+}
